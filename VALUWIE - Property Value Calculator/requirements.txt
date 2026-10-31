@@ -1,8 +1,10 @@
 streamlit
-pandas
-geopandas
-shapely
-folium
-streamlit-folium
-reportlab
-openpyxl
+pandas==2.2.0
+geopandas==0.14.3
+shapely==2.0.3
+folium==0.16.0
+streamlit-folium==0.22.1
+reportlab==4.1.0
+openpyxl==3.1.2
+pyogrio==0.7.2
+pyproj==3.6.1
