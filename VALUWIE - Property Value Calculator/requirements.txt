@@ -1,7 +1,0 @@
-streamlit
-pandas
-shapely
-folium
-streamlit-folium
-reportlab
-openpyxl

@@ -1,2 +1,0 @@
-cd "D:\CODING practicals\Python Exercises\VALUWIE - Property Value Calculator"
-python -m streamlit run "VALUWIE - Property Value Calculator.py"
