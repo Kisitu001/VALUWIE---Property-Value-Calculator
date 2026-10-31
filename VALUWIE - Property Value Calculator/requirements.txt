@@ -5,5 +5,3 @@ folium
 streamlit-folium
 reportlab
 openpyxl
-pyogrio
-pyproj
